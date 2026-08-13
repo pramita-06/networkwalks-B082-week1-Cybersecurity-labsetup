@@ -43,6 +43,7 @@ A hands-on cybersecurity lab environment built using VirtualBox and Kali Linux f
                   │  Kali   │
                   │10.0.0.2 │
                   └─────────┘
+
 🧪 Phase 1 — Kali Linux Lab Setup
 1. VirtualBox NAT Network
 A custom NAT Network named NatNetwork was created using the 10.0.0.0/24 network.
@@ -114,3 +115,11 @@ Phase 2 — Upcoming 🚧
 [ ] Windows network configuration
 [ ] Kali ↔ Windows connectivity
 [ ] Additional cybersecurity exercises
+
+
+👩‍💻 Author
+Pramita Shetty
+
+Cybersecurity | Network Security | Ethical Hacking
+NetworkWalks B082 — Week 1 Cybersecurity Lab Setup
+This project was completed as part of the NetworkWalks cybersecurity practical lab.
